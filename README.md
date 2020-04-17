@@ -1,0 +1,12 @@
+# Revisiting DSA
+
+Read our article for more Description:- [Introduction to Revisiting DSA](https://rajeshberwal.com/what-is-revisiting-dsa-series)
+
+## How to contribute to this repo
+
+1. If you have any suggestion then open an issue and share your thoughts their
+2. Even you can help us by making documentation better
+3. By making a pull request to make the code more readable our submit your own code.
+4. By sharing it with your friends and helping each other.
+
+It is a community powered series, so please make contribute to it and make our communtiy better place for everyone
