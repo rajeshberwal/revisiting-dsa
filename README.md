@@ -2,6 +2,14 @@
 
 Read our article for more Description:- [Introduction to Revisiting DSA](https://rajeshberwal.com/what-is-revisiting-dsa-series)
 
+## Indexing Of Content
+
+### [Python](https://github.com/rajeshberwal/revisiting-dsa/python)
+
+- [Searching](https://github.com/rajeshberwal/revisiting-dsa/python/searching)
+  - [Linear Search](https://github.com/rajeshberwal/revisiting-dsa/python/searching/linear-searching.py)
+  - [Binary Search](https://github.com/rajeshberwal/revisiting-dsa/python/searching/binary-searching.py)
+
 ## How to contribute to this repo
 
 1. If you have any suggestion then open an issue and share your thoughts their
