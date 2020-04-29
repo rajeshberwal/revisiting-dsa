@@ -3,23 +3,23 @@ Author: Rajesh Berwal
 Date: 20-04-2020
 Website: https://rajeshberwal.com/
 """
-def binary_search(arr, low, high, elem):
+def binary_search(arr, start_index, end_index, elem):
     """
     @args: 
         arr -> array,
-        low -> lowest-index : int 
-        high -> highest-index : int,
+        start_index -> lowest-index : int 
+        end_index -> highest-index : int,
         elem: element to be searched : any
     """
-    while low <= high:
-        mid = low + (high - low) // 2
+    while start_index <= end_index:
+        mid = start_index + (end_index - start_index) // 2
 
         if arr[mid] == elem:
             return mid
         elif arr[mid] < elem:
-            low = mid + 1
+            start_index = mid + 1
         else:
-            high = mid - 1
+            end_index = mid - 1
     # if we didn't find anything then will return None
     return None
 
