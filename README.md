@@ -16,6 +16,18 @@ Read our article for more Description:- [Introduction to Revisiting DSA](https:/
   - [Linear Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/go/searching/linearSearch.go)
   - [Binary Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/go/searching/binarySearch.go)
 
+### [JavaScript](https://github.com/rajeshberwal/revisiting-dsa/tree/master/javascript)
+
+- [Searching](https://github.com/rajeshberwal/revisiting-dsa/tree/master/javascript/searching)
+  - [Linear Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/javascript/searching/linearSearch.js)
+  - [Binary Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/javascript/searching/binarySearch.js)
+
+### [C++](https://github.com/rajeshberwal/revisiting-dsa/tree/master/cpp)
+
+- [Searching](https://github.com/rajeshberwal/revisiting-dsa/tree/master/cpp/searching)
+  - [Linear Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/cpp/searching/linearSearch.cpp)
+  - [Binary Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/cpp/searching/binarySearch.cpp)
+
 ## How to contribute to this repo
 
 1. If you have any suggestion then open an issue and share your thoughts their
