@@ -22,13 +22,13 @@ Read our article for more Description:- [Introduction to Revisiting DSA](https:/
   - [Linear Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/javascript/searching/linearSearch.js)
   - [Binary Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/javascript/searching/binarySearch.js)
 
-### [C](https://github.com/rajeshberwal/revisiting-dsa/tree/master/cpp)
+### [C++](https://github.com/rajeshberwal/revisiting-dsa/tree/master/cpp)
 
 - [Searching](https://github.com/rajeshberwal/revisiting-dsa/tree/master/cpp/searching)
   - [Linear Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/cpp/searching/linearSearch.cpp)
   - [Binary Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/cpp/searching/binarySearch.cpp)
 
-### [C++](https://github.com/rajeshberwal/revisiting-dsa/tree/master/c)
+### [C](https://github.com/rajeshberwal/revisiting-dsa/tree/master/c)
 
 - [Searching](https://github.com/rajeshberwal/revisiting-dsa/tree/master/cpp/searching)
   - [Linear Search](https://github.com/rajeshberwal/revisiting-dsa/blob/master/c/searching/linearSearch.c)
